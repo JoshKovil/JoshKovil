@@ -1,10 +1,8 @@
+
+# **Hello There!** <img src="https://raw.githubusercontent.com/JoshKovil/JoshKovil/master/cheerful.gif" width="30px">
+
 - 👋 Hi, I’m @JoshKovil
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-JoshKovil/JoshKovil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
