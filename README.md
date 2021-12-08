@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="images/Banner.png" alt="my banner">
+</p>
 
 # **Hello there!**
 
