@@ -1,14 +1,16 @@
+<!-- Hero banner -->
 <p align="center">
     <img src="images/Banner.png" alt="my banner">
 </p>
 
+<!-- Introduction -->
 # **Hello there!**
 
 Just a developer with a passion for creating accessible, personalised, and open web experiences for all. Currently, I'm working as a QA Analyst/Engineer at [HUGE](https://www.hugeinc.com), that focuses on transforming designs into functional products and services. If you want to know more about me, my work, and my experiences, head on over to ~~joshkovil.com~~.
 
 ## 🔧 **Technologies & Tools**
 
-<!-- add all custom badges here -->
+<!-- Custom badges -->
 ![Windows](https://img.shields.io/badge/OS-Windows-%234c566a?style=flat&logo=Windows)
 ![Linux](https://img.shields.io/badge/OS-Linux-%234c566a?style=flat&logo=Linux)
 ![MacOS](https://img.shields.io/badge/OS-MacOS-%234c566a?style=flat&logo=Apple)
@@ -26,23 +28,17 @@ Just a developer with a passion for creating accessible, personalised, and open 
 
 ## 🤝🏾 **Connect With Me**
 
-<!-- Social media flatcon here (Linkedin, Instagram, Twitter)-->
+<!-- Social media flatcon (Linkedin, Instagram, Twitter)-->
 <p align="left">
     <a href="https://www.linkedin.com/in/josh-kovil-155601ba/">
-        <img src="images/Linkedin.png" width="30" alt="My LinkedIn">
+        <img src="images/Linkedin.png" width="25" alt="My LinkedIn">
     </a>
-    Linkedin Page
-</p>
-<p align="left">
+    &nbsp&nbsp
     <a href="https://www.instagram.com/joshkovil/">
-        <img src="images/Instagram.png" width="30" alt="My Instagram">
+        <img src="images/Instagram.png" width="25" alt="My Instagram">
     </a>
-    Instagram Stories
-</p>
-
-<p align="left">
+    &nbsp&nbsp
     <a href="https://twitter.com/JoshKovil">
-        <img src="images/Twitter.png" width="30" alt="My Twitter">
+        <img src="images/Twitter.png" width="25" alt="My Twitter">
     </a>
-    Twitter Feed
 </p>
